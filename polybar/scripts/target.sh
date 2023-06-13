@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 target=$(cat /home/devmb/.config/polybar/scripts/target)

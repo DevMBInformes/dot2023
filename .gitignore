@@ -1,0 +1,6 @@
+./dconf/*
+pulse*
+./pulse*
+./pulse/*
+pavucontrol.ini
+./pulse/*
